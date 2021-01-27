@@ -7,11 +7,11 @@
   </url>
   
   <url>
-    <loc>/blog/tags/</loc>
+    <loc>/blog/</loc>
   </url>
   
   <url>
-    <loc>/blog/</loc>
+    <loc>/blog/tags/</loc>
   </url>
   
 </urlset>
