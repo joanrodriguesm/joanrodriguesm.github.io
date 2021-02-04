@@ -18,7 +18,6 @@ header, footer {
   padding: 32px;
   border-bottom: 1px solid var(--color-purple);
   background: #161b22;
-  overflow: hidden;
 }
 
 header div {
