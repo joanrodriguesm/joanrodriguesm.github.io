@@ -16,7 +16,7 @@ body {
 
 header, footer {
   padding: 32px;
-  border-bottom: 1px solid var(--color-green);
+  border-bottom: 1px solid var(--color-purple);
   background: #161b22;
   overflow: hidden;
 }
@@ -51,7 +51,7 @@ header div {
 
 #wrapper img {
   border-radius: 50%;
-  border: 5px solid var(--color-purple);
+  border: 5px solid var(--color-green);
   margin-bottom: 32px;
   height: 400px;
 }
