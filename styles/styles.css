@@ -17,6 +17,7 @@ header, footer {
   padding: 32px;
   border-bottom: 1px solid #333;
   background: #161b22;
+  overflow: hidden;
 }
 
 header div {
