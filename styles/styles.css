@@ -1,5 +1,6 @@
 :root {
   --color-green: #50fa7b;
+  --color-purple: #8257e6;
 }
 
 * {
@@ -50,7 +51,7 @@ header div {
 
 #wrapper img {
   border-radius: 50%;
-  border: 5px solid var(--color-green);
+  border: 5px solid var(--color-purple);
   margin-bottom: 32px;
   height: 400px;
 }
