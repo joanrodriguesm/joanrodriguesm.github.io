@@ -51,8 +51,8 @@ header div {
 #wrapper img {
   border-radius: 50%;
   border: 5px solid var(--color-green);
-  margin-bottom: 32px;
-  height: 400px;
+  margin-bottom: 2px;
+  height: 300px;
 }
 
 #wrapper h1 {
@@ -65,13 +65,13 @@ header div {
   font-size: 24px;
   line-height: 52px;
   font-weight: normal;
-  margin-top: 8px;
+  margin-top: 1px;
   opacity: 0.8;
 }
 
 #wrapper p {
   max-width: 500px;
-  margin: 22px auto;
+  margin: 12px auto;
   font-size: 24px;
   line-height: 34px;
 }
