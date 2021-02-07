@@ -14,7 +14,7 @@ body {
     font-family: 'Source Sans Pro', sans-serif;
 }
 
-header {
+header, footer {
   padding: 32px;
   border-bottom: 1px solid var(--color-green);
   background: #161b22;
@@ -87,14 +87,11 @@ footer {
     height: 100px;    
     text-align: center;
     line-height: 100px;
+    color: #ffffff;
 }
 
-#links-footer a {
+#links-social a {
   border-bottom: 1px solid var(--color-green);
-}
-
-#credits {
-  color: white;
 }
 
 #author {
